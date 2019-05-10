@@ -1,0 +1,10 @@
+dict_words_boxes.json   = a nested (3-level) dictionary file which contains each image and each captions 
+in each images with the words corresponding to that boxes in the image.
+
+ha_vgg_indices.json = a nested (2-level) dictionary file which contatins each image and each caption 
+boxes in the image with the corresponding indices.
+
+
+train_data.txt  = train split set
+validation_data.txt = validation split set
+test_data.txt   = test split set
