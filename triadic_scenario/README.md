@@ -1,3 +1,4 @@
+## Here are the main steps how triadic scenario works
 
 - get the sibling agent(both listener and speaker) from pretrained saved model, (.pth files)
 - get the child agent (both listener and speaker) from child_agent.py file
