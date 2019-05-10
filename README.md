@@ -1,5 +1,5 @@
 # MSc_Thesis
 Computational model for human language learning
 
-Tilburg Universiyt
+Tilburg Universtiy
 MSc. Data Science & Society
